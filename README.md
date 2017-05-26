@@ -13,5 +13,5 @@ The script then looks up each band on a [metal band database](http://www.metal-a
 3. Enter `python metal_concerts.py` to run the script
 
 # Upcoming changes:
-* Take the list of preferred bands and create an html page with their information
-* Open up the html document automatically
+* Take the list of preferred bands and create an HTML document with their information
+* Allow users to select their own genres
