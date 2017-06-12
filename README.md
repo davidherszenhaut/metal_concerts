@@ -14,4 +14,3 @@ The script then looks up each band on a [metal band database](http://www.metal-a
 
 # Upcoming changes:
 * Take the list of preferred bands and create an HTML document with their information
-* Allow users to select their own genres
