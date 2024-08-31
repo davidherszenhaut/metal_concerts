@@ -15,7 +15,7 @@ __credits__ =    []
 __license__ =    "GNU GPL v3"
 __version__ =    "1.0.0"
 __maintainer__ = "David Herszenhaut"
-__email__ =      "david.herszenhaut@gmail.com"
+__email__ =      "davidherszenhaut.social@gmail.com"
 __status__ =     "Development"
 
 
